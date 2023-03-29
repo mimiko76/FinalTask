@@ -49,4 +49,14 @@ string[] CreateWritteArray(int size)
    return EndArray;
 }
 
+void ShowArray(string[] MyArray)
+{
+   Console.Write("Строки содержащие 3 или меньше символов:");
+   for (int i = 0; i < MyArray.Length; i++)
+   {
+      if (MyArray.Length == i + 1) Console.Write($"{MyArray[i]}. ");
+      else Console.Write($"{MyArray[i]}, ");
+   }
+}
+
 
