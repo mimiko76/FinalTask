@@ -69,7 +69,6 @@ if (solution.ToLower() == "y")
    string[] MyArray = CreateRandomArray("y");
    ShowArray(MyArray);
 }
-
 if (solution.ToLower() == "n")
 {
    Console.Write("Введите желаемый размер массива: ");
