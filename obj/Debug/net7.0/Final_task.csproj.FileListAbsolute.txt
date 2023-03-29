@@ -1,0 +1,15 @@
+/Users/alinalevina/Desktop/Final_task/bin/Debug/net7.0/Final_task
+/Users/alinalevina/Desktop/Final_task/bin/Debug/net7.0/Final_task.deps.json
+/Users/alinalevina/Desktop/Final_task/bin/Debug/net7.0/Final_task.runtimeconfig.json
+/Users/alinalevina/Desktop/Final_task/bin/Debug/net7.0/Final_task.dll
+/Users/alinalevina/Desktop/Final_task/bin/Debug/net7.0/Final_task.pdb
+/Users/alinalevina/Desktop/Final_task/obj/Debug/net7.0/Final_task.csproj.AssemblyReference.cache
+/Users/alinalevina/Desktop/Final_task/obj/Debug/net7.0/Final_task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinalevina/Desktop/Final_task/obj/Debug/net7.0/Final_task.AssemblyInfoInputs.cache
+/Users/alinalevina/Desktop/Final_task/obj/Debug/net7.0/Final_task.AssemblyInfo.cs
+/Users/alinalevina/Desktop/Final_task/obj/Debug/net7.0/Final_task.csproj.CoreCompileInputs.cache
+/Users/alinalevina/Desktop/Final_task/obj/Debug/net7.0/Final_task.dll
+/Users/alinalevina/Desktop/Final_task/obj/Debug/net7.0/refint/Final_task.dll
+/Users/alinalevina/Desktop/Final_task/obj/Debug/net7.0/Final_task.pdb
+/Users/alinalevina/Desktop/Final_task/obj/Debug/net7.0/Final_task.genruntimeconfig.cache
+/Users/alinalevina/Desktop/Final_task/obj/Debug/net7.0/ref/Final_task.dll
